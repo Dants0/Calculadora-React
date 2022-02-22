@@ -11,6 +11,7 @@
     border-right: var(--border-button);
     border-bottom: var(--border-button);
     outline: none;
+    cursor: pointer;
 }
 
 .button:active{
@@ -31,5 +32,5 @@
 }
 
 .button.operation:active{
-    background-color: #fab231cc;
+    background-color: #92630dcc;
 }
