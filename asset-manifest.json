@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00674d23.css",
+    "main.js": "/static/js/main.fac2c072.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/static/js/787.a0d8d0d4.chunk.js",
+    "static/media/Poppins-Light.otf": "/static/media/Poppins-Light.f0c40fb3cca74f208452.otf",
+    "index.html": "/index.html",
+    "main.00674d23.css.map": "/static/css/main.00674d23.css.map",
+    "main.fac2c072.js.map": "/static/js/main.fac2c072.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00674d23.css",
+    "static/js/main.fac2c072.js"
+  ]
+}
